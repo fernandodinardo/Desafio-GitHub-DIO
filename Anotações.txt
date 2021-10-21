@@ -1,0 +1,5 @@
+Projeto JAVA - Caixa Eletrônico - Senhas
+
+Este projeto foi um Sistema que acabei desenvolvendo em Java em uma Disciplina da Faculdade (Programação II).
+
+E neste sentido, vou disponibilizar este sistema em meu GitHub para realmente divulgar e para realizar o Desafio do GIT/GITHUB da DIO.
